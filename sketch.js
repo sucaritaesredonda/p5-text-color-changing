@@ -6,7 +6,7 @@ function setup() {
   textSize(text_size);
   textAlign(CENTER, CENTER);
   fill(250);
-  stroke(100, 0, 250); // Set outline color to white
+  stroke(0); // Set outline color to white
   strokeWeight(2);
 }
 
